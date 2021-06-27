@@ -18,3 +18,37 @@ header {
   height: 100vh;
 }
 /* -------end of header --------- */
+
+/* ---------portfolio section----------- */
+
+#first-project-image {
+  background-image: url("images/first-project.JPG");
+  background-size: cover;
+  background-position: center center;
+}
+
+#second-project-image {
+  background-image: url("images/second-project.JPG");
+  background-size: cover;
+  background-position: center center;
+}
+
+#third-project-image {
+  background-image: url("images/third-project-image.JPG");
+  background-size: cover;
+  background-position: center center;
+}
+
+#fourth-project-image {
+  background-image: url("images/fourth-project-image.JPG");
+  background-size: cover;
+  background-position: center center;
+}
+
+#portfolio .info div {font-size: 12px;}
+#portfolio .heading {
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+}
+
+/* ---------end of portfolio section----- */
