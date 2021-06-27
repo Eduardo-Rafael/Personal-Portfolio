@@ -52,3 +52,24 @@ header {
 }
 
 /* ---------end of portfolio section----- */
+
+/* ------- about section------------------ */
+
+#about .author-profile-image {
+  background-image: url("images/5f1b7a2c-3498-4c7e-838e-cd14c9e8408e.jpg");
+  background-size: cover;
+  background-position: center center;
+}
+
+#about .heading {
+  font-family: 'Times New Roman', Times, serif;
+  letter-spacing: 1px;
+}
+
+/* --------end of about section----------- */
+
+/* -------- conditional style ------------ */
+@media (min-width: 768px){
+  #author-info {margin-right: 25%;}
+}
+/* -------- end of conditional style------ */
