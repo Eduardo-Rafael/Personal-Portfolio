@@ -1,1 +1,20 @@
 /* Author: Eduardo Carranza */
+
+
+/* ---------general style--------- */
+
+.container {
+  max-width: 1760px;
+  padding: 0 80px;
+}
+
+/* --------end of general style---- */
+
+/* -------- header ---------- */
+header {
+  background-image: url("images/kari-shea-1SAnrIxw5OY-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+/* -------end of header --------- */
